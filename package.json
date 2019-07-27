@@ -1,0 +1,23 @@
+{
+  "name": "sunfrog-uploader",
+  "version": "1.0.0",
+  "description": "SunFrog Uploader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/Maxvien/sunfrog-uploader.git"
+  },
+  "keywords": [
+    "sunfrog",
+    "uploader"
+  ],
+  "author": "Maxvien",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Maxvien/sunfrog-uploader#readme",
+  "dependencies": {
+    "selenium-webdriver": "^2.48.2"
+  }
+}
